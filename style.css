@@ -97,4 +97,19 @@ Just write your HTML however you want and these will automatically work.
   } */
 
   /*I have start my CSS classes down here!*/
-  
+  /* p {
+    padding: 20px;
+    margin: 20px;
+    height: 20px;
+    width: 120px;
+    border: 5px solid black;
+  } */
+
+
+
+  .relative-box {
+    position: relative;
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+  }
