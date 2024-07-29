@@ -112,4 +112,6 @@ Just write your HTML however you want and these will automatically work.
     background-color: lightblue;
     width: 100px;
     height: 100px;
+    top: 10px; /* Moves the element 10px down */
+    left: 20px; /* Moves the element 20px to the right */
   }
