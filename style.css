@@ -107,16 +107,9 @@ Just write your HTML however you want and these will automatically work.
 
 
 
-  .relative-box {
-    position: relative;
+  .absolute-box {
+    position: absolute;
     background-color: lightblue;
-    width: 100px;
-    height: 100px;
-    top: 10px; /* Moves the element 10px down */
-    left: 20px; /* Moves the element 20px to the right */
-  }
-  .next-box {
-    background-color: lightcoral;
     width: 100px;
     height: 100px;
   }
