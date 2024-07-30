@@ -157,22 +157,24 @@ Example of position: relative */
 
 
   /* Example of position: fixed */
-
+/* 
       .fixed-box {
         position: fixed;
         background-color: lightblue;
         width: 100px;
         height: 100px;
-        top: 20px; /* Positioned 20px from the top of the viewport */
-        left: 30px; /* Positioned 30px from the left of the viewport */
-        z-index: 10; /* Higher stacking order */
+        top: 20px;  Positioned 20px from the top of the viewport 
+        left: 30px;  Positioned 30px from the left of the viewport 
+        z-index: 10;  Higher stacking order
       }
 
       .next-box {
         background-color: lightcoral;
         width: 100px;
         height: 100px;
-        position: relative; /* This element is in normal flow */
+        position: relative; This element is in normal flow 
         top: 100px;
         left: 50px;
-      }
+      } */
+    
+      /* A Systematic Way to Write CSS Effectively */
