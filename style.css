@@ -178,3 +178,14 @@ Example of position: relative */
       } */
     
       /* A Systematic Way to Write CSS Effectively */
+
+      .container {
+        display: flex;
+        flex-direction: row;
+      }
+      
+      .box-1,
+      .box-2 {
+        flex: 50%;
+      }
+
